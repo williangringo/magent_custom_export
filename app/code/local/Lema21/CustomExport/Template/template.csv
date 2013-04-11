@@ -1,0 +1,1 @@
+order.increment_id|order.status|order.created_at|customer.name|customer.email|customer.taxvat|address.street_1|address.street_2|address.street_3|address.street_4|address.city|address.region|address.postcode|address.telephone|order.shipping_description
